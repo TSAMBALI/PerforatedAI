@@ -1,0 +1,8 @@
+{
+  "name": "Dendritic Hub: Perforated AI Hackathon Platform",
+  "description": "A comprehensive platform for participants of Perforated AI's Dendritic Optimization Hackathon, featuring scheduling, judging info, and an AI-powered project advisor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
